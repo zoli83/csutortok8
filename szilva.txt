@@ -1,0 +1,3 @@
+Ez a szilva.txt állomány első sora.
+Ez a szilva.txt fájl második sora.
+Ez pedig a szilva szövegfájl harmadik sora.
